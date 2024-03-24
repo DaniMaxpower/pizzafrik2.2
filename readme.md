@@ -1,4 +1,6 @@
-PizzaFrik
+PizzaFrik:
+
+
 Este es el repositorio oficial de PizzaFrik, donde puedes encontrar información sobre nuestra franquicia de pizzas que combina tradición e innovación para crear experiencias culinarias inolvidables.
 
 
@@ -7,7 +9,9 @@ Este es el repositorio oficial de PizzaFrik, donde puedes encontrar información
 
 
 
-Acerca de nosotros
+Acerca de nosotros:
+
+
 En PizzaFrik, nos dedicamos a utilizar ingredientes frescos y de alta calidad en nuestras pizzas, ofreciendo una amplia variedad de opciones tanto clásicas como creativas. Desde nuestra fundación desde 1895, hemos mantenido nuestra pasión por la comida y el servicio al cliente excepcional como nuestros pilares principales. Nuestro ambiente acogedor y nuestro compromiso con la comunidad hacen que cada visita sea más que simplemente comer pizza.
 
 
@@ -20,7 +24,9 @@ En PizzaFrik, nos dedicamos a utilizar ingredientes frescos y de alta calidad en
 
 
 
-Contenido
+Contenido:
+
+
 En este repositorio, encontrarás los siguientes archivos y carpetas:
 
 index.html: Nuestro archivo principal que contiene la página de inicio de PizzaFrik.
@@ -37,7 +43,9 @@ img/: Carpeta que contiene imágenes utilizadas en la página web.
 
 
 
-Visítanos
+Visítanos:
+
+
 ¡Te invitamos a visitar nuestra página web y a descubrir por qué en PizzaFrik, cada bocado es una aventura de sabor! Para obtener más información, https://github.com/DaniMaxpower/pizzafrik2.2
 Contacto
 Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con nosotros a través de nuestra página de contacto o en nuestras redes sociales.
