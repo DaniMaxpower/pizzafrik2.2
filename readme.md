@@ -46,6 +46,6 @@ img/: Carpeta que contiene imágenes utilizadas en la página web.
 Visítanos:
 
 
-¡Te invitamos a visitar nuestra página web y a descubrir por qué en PizzaFrik, cada bocado es una aventura de sabor! Para obtener más información, https://github.com/DaniMaxpower/pizzafrik2.2
+¡Te invitamos a visitar nuestra página web y a descubrir por qué en PizzaFrik, cada bocado es una aventura de sabor! Para obtener más información, https://github.com/DaniMaxpower/pizzafrik2.2 O https://danimaxpower.github.io/pizzafrik2.2/index.html
 Contacto
 Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con nosotros a través de nuestra página de contacto o en nuestras redes sociales.
